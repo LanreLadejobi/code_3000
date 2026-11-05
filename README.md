@@ -16,3 +16,6 @@ Your goal is to connect anonymized data back to its source data and check the ma
 
 ### Module 08: Sustainability in Computing
 You will be given a toy dataset and have the opportunity to explore the potential effects of choosing sustainable energy sources to perform computations. You'll code the energy calculation in "sustainability calculations" script, and then you can review the results of various decisions in the "check calculations" notebook. 
+
+### Homework 09: Personal Ethics Statement
+I believe that ethics at it's core is all about the decisions we choose to make and taking responsibility and accountability for them. I also heavily agree with some of the content I read in Chapter 5 of _Ethical Machines_, especially on how making broad statements isn't enough to uphold ethics but rather how ethics should be demonstrated through our actions. Especially as a Computer Science major, with all the amazing growing capabilities of modern technology and software, I feel like it becomes increasingly important to consider the potential consequences of what we build instead of looking only at the benefits. All in all, I just think that being ethical is being just, and doing what you genuinely believe is right even if it's not the most beneficial or best option for yourself.
